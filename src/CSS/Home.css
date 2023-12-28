@@ -1,0 +1,7 @@
+/* Add this to your CSS file, for example, Carousel.css */
+.carousel-image {
+  height: 650px; /* Set the desired height of the images */
+  object-fit: cover; /* Ensure the images cover the specified height */
+}
+
+/* You can add additional styling for Carousel.Caption if needed */
